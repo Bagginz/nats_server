@@ -1,3 +1,3 @@
 #!/bin/bash
-docker rmi -f itopplus_nats
-docker build -t itopplus_nats .
+docker rmi -f nats
+docker build -t nats .
